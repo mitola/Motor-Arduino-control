@@ -176,6 +176,9 @@ void setup()
   servo_2.write(180);
   delay(2000);
 
+  // To be updated, extend the functionality with functions which will be called from main program later
+  //TODO: Add sensor test
+
 }
 
 
